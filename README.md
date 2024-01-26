@@ -1,10 +1,10 @@
 # Server-Client-Chat
 
-Server-Client Chat Application in C++
+**Server-Client Chat Application in C++**
 
 This repository implements a real-time chat application using C++ and socket programming. It demonstrates the fundamentals of network communication between a server and multiple clients.
 
-Features:
+**Features:**
 
 Supports multiple concurrent clients connecting to the server.
 
@@ -14,7 +14,7 @@ Includes basic error handling for network operations.
 
 Provides a foundation for building more advanced chat functionalities.
 
-Technologies:
+**Technologies:**
 
 C++ programming language
 
@@ -22,7 +22,7 @@ POSIX sockets for network communication
 
 Standard C++ libraries for input/output
 
-Target Audience:
+**Target Audience:**
 
 Programmers interested in learning socket programming in C++.
 
