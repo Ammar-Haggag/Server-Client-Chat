@@ -30,5 +30,7 @@ Developers looking for a starting point for building chat applications.
 
 Students wanting to understand client-server architecture.
 
+**NOTE : works on linux only !!!**
+
 
 ![Untitled](https://github.com/Ammar-Haggag/Server-Client-Chat/assets/155159317/bae17cfc-577e-49a6-8b90-2f872e25b117)
